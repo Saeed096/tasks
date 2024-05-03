@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "elPZAWe/fN9tW1wlrTbRMXeriexFew+xLlCZGQTaJyZSC32CpAs1Obl3lbY89swyy38PAOmmeW7Qdjh8BS8Q+Q==",
+  "success": true,
+  "projectFilePath": "E:\\iti\\c#\\day1\\tasks\\task1\\task1\\task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammed Ali\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\Mohammed Ali\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\Mohammed Ali\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
